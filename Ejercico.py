@@ -1,1 +1,1 @@
-Equipo = ['Sylveon','Mewtwo','Typhlosion','Dragonite','Rhyperior','Metagross']
+Equipo = ['Sylveon','Mewtwo','Typhlosion','Dragonite','Rhyperior','Metagross']  

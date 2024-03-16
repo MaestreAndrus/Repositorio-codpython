@@ -1,0 +1,1 @@
+Equipo = ['Feraligart','Deoxys','Sceptile','Tyranitar','Aggron','Lycanrock']  
