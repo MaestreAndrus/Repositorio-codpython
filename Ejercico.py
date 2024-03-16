@@ -1,0 +1,1 @@
+Equipo = ['Sylveon','Mewtwo','Typhlosion','Dragonite','Rhyperior','Metagross']
